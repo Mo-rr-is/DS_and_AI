@@ -1,0 +1,1 @@
+This directory will contain all the information about Computer Vision using YOLOv8.

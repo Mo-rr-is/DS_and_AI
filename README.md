@@ -14,4 +14,4 @@ It also contains notes and learning programs of what was covered during the **DS
   - A Hugging Face account.
     - Develops computation tools for building applications using machine learning.
 ### A. Image Classification with YOLOv8
-- Start with Image Classification prediction using pretrained ```yolov8-cls```model. *classification_zero_shot.ipynb*
+- Start with Image Classification prediction using pretrained ```yolov8-cls```model. {*classification_zero_shot.ipynb*}
