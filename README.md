@@ -15,3 +15,5 @@ It also contains notes and learning programs of what was covered during the **DS
     - Develops computation tools for building applications using machine learning.
 ### A. Image Classification with YOLOv8
 - Start with Image Classification prediction using pretrained ```yolov8-cls```model. {*classification_zero_shot.ipynb*}
+- Download the dataset and unzip.
+- Login to roboflow and create a single-label classification project.
